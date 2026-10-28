@@ -1,6 +1,4 @@
-from pathlib import Path
-
-content = """# Full-Stack AI Web App
+# Full-Stack AI Web App
 
 ## Project Overview
 
@@ -149,8 +147,3 @@ Recommended screenshots:
 The Full-Stack AI Web App demonstrates the integration of React, Flask, and MongoDB in a single web application. It combines sentiment analysis, image processing, dashboard statistics, and prediction history management through a structured frontend and backend architecture.
 
 The project provides practical experience with full-stack development, REST API integration, database operations, and Python-based text and image processing.
-"""
-
-path = Path("/mnt/data/README.md")
-path.write_text(content, encoding="utf-8")
-print(f"Created {path} ({len(content.splitlines())} lines)")
