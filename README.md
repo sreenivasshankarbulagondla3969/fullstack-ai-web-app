@@ -298,5 +298,5 @@ It provides a user-friendly interface for analyzing text sentiment, processing s
 | Image Processing | Pillow (PIL) |
 | API Communication | HTTP REST API |
 | Version Control | Git |
-| Repository | [Full-Stack AI Web App on GitHub](https://github.com/sreenivasshankarbulagondla3969/fullstack-ai-web-app) |
+| Repository |https://github.com/sreenivasshankarbulagondla3969/fullstack-ai-web-app |
 
